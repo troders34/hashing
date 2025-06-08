@@ -71,3 +71,9 @@ Proses pengujian kode program ini dilakukan relatif singkat karena proses pemeca
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/troders34/hashing.svg?style=for-the-badge
 [license-url]: https://github.com/troders34/hashing/blob/master/LICENSE.txt
+
+
+
+![Screenshot 2025-06-08 170754_1percent](https://github.com/user-attachments/assets/450eaf33-a634-411c-9f73-7818f35435e1)
+![Screenshot 2025-06-08 170839_cpupercentage](https://github.com/user-attachments/assets/b5a7a954-ed1f-4c21-9098-b6a0da2604eb)
+
