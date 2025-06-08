@@ -11,7 +11,7 @@
   </a>
 <h1 align="center">Python Bcrypt Hashing Brute Force</h1>
   <p align="center">
-    A project by/for Noctra Lupra community
+    A project by and for Noctra Lupra community
     <br />
   </p>
 </div>
