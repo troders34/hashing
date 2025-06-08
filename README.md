@@ -51,7 +51,14 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 <!-- GETTING STARTED -->
 
-
+<!-- TUTORIAL -->
+1. Buat satu folder
+2. Buat atau unduh file
+3. Buat kode program Python
+4. Cek kesesuaian versi Python dan pip
+5. Unduh modul Python yang dibutuhkan
+6. Unduh dan sesuaikan lokasi path
+7. Uji coba kode program
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
