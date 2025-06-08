@@ -53,12 +53,18 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 <!-- TUTORIAL -->
 1. Buat satu folder
-2. Buat atau unduh file
+2. Buat atau unduh filestr 
+struktur file: folder/ >> hash_bcrypt.py dan >> rockyou.txt
 3. Buat kode program Python
 4. Cek kesesuaian versi Python dan pip
+pip --version dan python --version pada terminal di path folder
 5. Unduh modul Python yang dibutuhkan
-6. Unduh dan sesuaikan lokasi path
-7. Uji coba kode program
+"python -m pip install tqdm" dan "python -m pip install bcrypt"
+6. Uji coba kode program
+   python <namaProgram .py> <kode_hash> <nama file wordlist .txt> -p <nilai_multiprocessing>
+
+Catatan:
+Proses pengujian kode program ini dilakukan relatif singkat karena proses pemecahan hash berlangsung sangat lama dan nilai_multiprocessing sangat dibatasi.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
